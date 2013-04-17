@@ -19,7 +19,7 @@ def qrify(sx,sy,sz,msg,mc):
 
 	mc.setBlock(0,4,0,block.STONE.id)
 
-	data = qr.getMatrix()
+	data = qr.get_matrix()
 
 	for x in range(0,len(data)):
 		for y in range(0,len(data[x])):
