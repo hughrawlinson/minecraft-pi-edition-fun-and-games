@@ -1,4 +1,4 @@
-#Minecraft: Pi Edition Fun and Games
+# Minecraft: Pi Edition Fun and Games
 
 A repo containing various scripts I write for the Minecraft: Pi Edition API
 
